@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Infra.bus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Domain.Core", "CleanArchitecture.Domain.Core\CleanArchitecture.Domain.Core.csproj", "{FE359731-CB3A-41DE-B664-56E9D61F2AD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitecture.Api", "CleanArchitecture.Api\CleanArchitecture.Api.csproj", "{224501E1-7E75-470D-90B8-8082135B26B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{FE359731-CB3A-41DE-B664-56E9D61F2AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE359731-CB3A-41DE-B664-56E9D61F2AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE359731-CB3A-41DE-B664-56E9D61F2AD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224501E1-7E75-470D-90B8-8082135B26B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224501E1-7E75-470D-90B8-8082135B26B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224501E1-7E75-470D-90B8-8082135B26B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224501E1-7E75-470D-90B8-8082135B26B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +83,7 @@ Global
 		{F9631A11-ED3D-4F3B-8EF6-79CF9EEBF281} = {F7364FB5-1162-454E-8B7A-5458F376DD18}
 		{BE9EE35D-62E8-4177-9515-E5684CBE6419} = {1329E689-9AF1-428B-8AFC-BC549663E1C7}
 		{FE359731-CB3A-41DE-B664-56E9D61F2AD2} = {2D28A66B-763D-42DA-AC7F-6D3536CC5132}
+		{224501E1-7E75-470D-90B8-8082135B26B2} = {3D752A1C-09DD-425B-A651-4F9D1673F660}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CD8D4776-A10B-44D6-A6EF-34E17C7624B2}
