@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 
 namespace CleanArchitecture.Mvc.Controllers
 {
-    [Authorize]
     public class CourseController : Controller
     {
         private readonly ICourseService _courseService;
